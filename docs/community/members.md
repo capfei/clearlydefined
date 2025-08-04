@@ -8,11 +8,31 @@ title: Members
 
 ClearlyDefined has a growing community. Some current members include:
 
-- Microsoft
-- GitHub
-- SAP
-- Bloomberg
-- Codethink
+![Microsoft](/img/microsoft.png)
+![GitHub](/img/github.png)
+![SAP](/img/sap.png)
+![Bloomberg](/img/bloomberg.png)
+![Cisco](/img/cisco.png)
+![Kusari](/img/kusari.jpg)
+
+## Steering Committee
+
+Elected for a one-year term starting on September 25, 2024
+
+- E. Lynette Rayle (GitHub) - Chair
+- Qing Tomlinson (SAP)
+- Jeff Mendoza (Kusari/GUAC)
+
+## Outreach Committee
+
+Elected for a one-year term starting on October 7, 2024
+
+- Jeff Luszcz (GitHub)
+- Alyssa Wright (Bloomberg)
+- Brian Duran (SAP)
+- Nick Vidal (Open Source Initiative)
+
+## Ecosystem
 
 ClearlyDefined is also part of a healthy ecosystem:
 
